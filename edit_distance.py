@@ -1,6 +1,4 @@
-# edit_distance.py: Reads strings x and y from standard input and computes
-# the edit-distance matrix opt. The program outputs x, y, the dimensions
-# (number of rows and columns) of opt, and opt itself.
+
 
 import stdarray
 import stdio
